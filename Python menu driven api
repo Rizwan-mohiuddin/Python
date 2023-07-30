@@ -1,6 +1,6 @@
 import os
 os.system("tput setaf 1")
-print("\t\t\tWelcome to Linux World")
+print("\t\t\tWelcome Rizwan")
 
 os.system("tput setaf 7")
 print("\t\t\t----------------------")
